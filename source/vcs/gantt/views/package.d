@@ -1,0 +1,1 @@
+module vcs.gantt.views;
